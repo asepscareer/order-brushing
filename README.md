@@ -2,7 +2,7 @@
 
 ## Order Brushing Detection
 
-Perilaku pengguna yang tidak normal pada platform e-commerce dapat dideteksi dengan berbagai cara. Misalnya, jika suatu barang di toko adalah best seller tetapi banyak dari pesanannya berasal dari pembeli yang sama, kami memiliki alasan untuk mencurigai bahwa penjual tersebut melakukan *brush* terhadap pesanan. *Order Brushing* adalah teknik yang dapat digunakan oleh penjual untuk membuat pesanan palsu untuk meningkatkan peringkat penjual atau item tertentu, yang mungkin mendorong item penjual tersebut meningkatkan hasil pencarian di Shopee. Untuk menjaga integritas pengalaman belanja online kami, kami secara konsisten memantau dan menandai setiap kasus pesanan yang mungkin terjadi pada Shopee.
+Perilaku pengguna yang tidak normal pada platform e-commerce dapat dideteksi dengan berbagai cara. Misalnya, jika suatu barang di toko adalah *best seller* tetapi banyak dari pesanannya berasal dari pembeli yang sama, kami memiliki alasan untuk mencurigai bahwa penjual tersebut melakukan *brush* terhadap pesanan. *Order Brushing* adalah teknik yang dapat digunakan oleh penjual untuk membuat pesanan palsu untuk meningkatkan peringkat penjual atau item tertentu, yang mungkin mendorong item penjual tersebut meningkatkan hasil pencarian di Shopee. Untuk menjaga integritas pengalaman belanja online kami, kami secara konsisten memantau dan menandai setiap kasus pesanan yang mungkin terjadi pada Shopee.
 
 ## Task
 
