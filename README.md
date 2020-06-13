@@ -6,7 +6,7 @@ Perilaku pengguna yang tidak normal pada platform e-commerce dapat dideteksi den
 
 ## Task
 
-1. Identifikasi semua toko yang dianggap telah melakukan *order brush
+1. Identifikasi semua toko yang dianggap telah melakukan *order brush*
 2. Untuk setiap toko yang diidentifikasi telah melakukan *order brush*, identifikasi pembeli yang diduga telah melakukan *order brush* untuk toko itu.
 
 Untuk keperluan pertanyaan ini, toko-toko dianggap telah melakukan *order brush* jika tingkat konsentratnya lebih besar dari atau sama dengan 3 pada setiap contoh. Untuk keperluan pertanyaan ini, pembeli yang mencurigakan dianggap sebagai pembeli yang memberikan kontribusi pesanan tertinggi ke toko yang dianggap telah melakukan *brush* terhadap pesanan. Untuk perhitungan proporsi tertinggi pesanan ke toko , hanya sertakan pesanan yang terjadi dalam kasus ketika pesanan *brush* telah dianggap telah terjadi. Dalam kasus di mana banyak pengguna berbagi proporsi pesanan tertinggi yang sama untuk toko tertentu, semua pengguna tersebut dianggap sebagai pembeli yang mencurigakan.
@@ -31,7 +31,8 @@ Diperlukan dua kolom:
 - Lain-lain, daftarkan userid yang dianggap mencurigakan untuk shopid yang bersangkutan
 - Jika ada lebih dari 1 userid diidentifikasi sebagai mencurigakan, daftarkan semua userids dipisahkan oleh "&", dengan userid numerik yang lebih kecil terlebih dahulu.
 ![example](example.jpg)
-Hasil yang didapatkan harus memiliki 18770 baris (tidak termasuk tajuk), masing-masing dengan 2 kolom.
+
+<p> Hasil yang didapatkan harus memiliki 18770 baris (tidak termasuk tajuk), masing-masing dengan 2 kolom. </p>
 
 # My Results
 
